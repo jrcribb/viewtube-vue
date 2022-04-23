@@ -13060,7 +13060,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:*":
+"node-fetch@npm:*, node-fetch@npm:3.2.3":
   version: 3.2.3
   resolution: "node-fetch@npm:3.2.3"
   dependencies:
@@ -13071,7 +13071,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.7, node-fetch@npm:^2.6.1":
+"node-fetch@npm:^2.6.1":
   version: 2.6.7
   resolution: "node-fetch@npm:2.6.7"
   dependencies:
@@ -16337,7 +16337,7 @@ __metadata:
     mongodb-memory-server: 8.4.2
     mongoose: 6.3.1
     nestjs-throttler-storage-redis: "git+https://github.com/mauriceoegerli/nestjs-throttler-storage-redis.git"
-    node-fetch: 2.6.7
+    node-fetch: 3.2.3
     passport: 0.5.2
     passport-jwt: 4.0.0
     passport-local: 1.0.0
